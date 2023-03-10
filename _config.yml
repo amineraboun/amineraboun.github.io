@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Amine Raboun"
   avatar           : "profile.png"
-  bio              : "Quantitative Researcher and Developer"
+  bio              : "Quantitative Researcher"
   location         : "Abu Dhabi"
-  employer         : "ADIA"
+  employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "amineraboun@gmail.com"
+  email            :
   researchgate     : "https://www.researchgate.net/profile/Amine-Raboun"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "amineraboun
+  github           : "amineraboun"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/amine-r-6412307a/
-  orcid            : #http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : #http://stackoverflow.com/users/123456/username
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
