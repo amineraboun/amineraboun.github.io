@@ -1,8 +1,8 @@
 ---
 title: "Strategies and Actors in Financial Markets"
 collection: teaching
-type: "Master degree course"
-permalink: /teaching/Strategies-and-Actors-in-Financial-Markets"
+type: "Paris-Dauphine University, Msc Applied Mathematics, MASEF, 203"
+permalink: /teaching/Strategies-and-Actors-in-Financial-Markets
 venue: "Paris-Dauphine University"
 date: 2023-01-01
 location: "Paris, France"
@@ -31,17 +31,16 @@ By the end of the course, students will be equipped with the knowledge and skill
 Course Material
 ======
 
-|   |     |    |
-|:---|:---:|:---:|:---:|
 |Title | Speaker | Organization | Slides |
-| Organization of the Financial System | Amine Raboun |  Download |
-| Market Microstructure and Flow Trading for Intermediaries | Amine Raboun | Download |
-| Structured Products: Investment Banks offers & Investors needs | Christophe Lesieur| Download |
-| Risk Management at the Scale of an Investment Bank | Pascal Gibart | Download |
-| Post 2008 Crisis Regulation | Julien Leprun | Download |
-| The Investment Process in a Changing World| Amine Raboun | Download |
-| IA and the Finanacial System: Will Internediaries be Disintermediated | Charles-Albert Lehalle | Download |
-| Alternative Data Changing the Investment Process | Charles-Albert Lehalle | Download |
+|:---|:---:|:---:|:---:|
+| Organization of the Financial System | Amine Raboun | Quantitative R&D, ADIA – UAE |  Download |
+| Market Microstructure and Flow Trading for Intermediaries | Amine Raboun | Quantitative R&D, ADIA – UAE | Download |
+| Structured Products: Investment Banks offers & Investors needs | Christophe Lesieur| Head of Financial Engineering, LFIS Capital – France | Download |
+| Risk Management at the Scale of an Investment Bank | Pascal Gibart | Head of Market Risk Quants, Credit Agricole CIB – France| Download |
+| Post 2008 Crisis Regulation | Julien Leprun | Deputy head of Data & Surveillance Dept, AMF – France| Download |
+| The Investment Process in a Changing World| Amine Raboun | Quantitative R&D, ADIA – UAE | Download |
+| IA and the Finanacial System: Will Internediaries be Disintermediated | Charles-Albert Lehalle | Global Head of Quantitative R&D, ADIA – UAE | Download |
+| Alternative Data Changing the Investment Process | Charles-Albert Lehalle | Global Head of Quantitative R&D, ADIA – UAE |Download |
 
 
 
