@@ -5,11 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<ul>
-    {% for post in site.publications %}
-    {% include archive-single-cv.html %}
-    {% endfor %}
-</ul>
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
 ### April 2023: FX Intervention Rules: A Risk-Based Framework 
 IMF – Singapore Regional Training Institute (STI)
 Audience: Central Bankers
