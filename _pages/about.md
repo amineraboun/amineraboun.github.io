@@ -9,13 +9,15 @@ redirect_from:
 ---
 
 
-I am a Buy Side Quantitative Researcher working at Abu Dhabi Investment Authority (ADIA) Strategy and Planning Division. My role consist in developing systematic trading strategies, in a scientific approach, leveraging big data, statistics and machine learning.
+As a Buy Side Quantitative Researcher at Abu Dhabi Investment Authority's (ADIA) Strategy and Planning Division, my main responsibility is to develop systematic trading strategies using a scientific approach that leverages big data, statistics, and machine learning techniques. This entails applying quantitative methods to analyze and interpret market trends, risk factors, and other relevant data points to create a sound and capacitive investment strategies.
 
-My research interest is at the crossroad of two areas:
-    - Asset Allocation, Alternative Risk Premia, ESG
-    - Market Microstructure, Transaction Costs, and Crowding
-    
-I hold a PhD in Economics from Université Paris Dauphine, PSL Research University, and two Master's degrees in Applied Mathematics to Finance from Ecole Polytechnique and Telecom ParisTech
+My research interests lie at the intersection of two critical areas: Asset Allocation, and Market Microstructure
+    - Marcroeconomics, Alternative Risk Premia, Smart Beta, ESG
+    - Transaction Costs, Liquidity and Crowding
+
+By combining my expertise in economics, mathematics, and finance, I strive to understand how these complex areas interrelate and influence each other, thereby contributing to the development of robust and innovative investment strategies.
+
+I have a PhD in Economics from Université Paris Dauphine, PSL Research University, and two Master's degrees in Applied Mathematics to Finance from Ecole Polytechnique and Télécom ParisTech.
 
 **Disclaimer**: This  is my private website.  The views expressed here are my own and do not necessarily reflect those of the institutions I  am currently  affiliated  with  or have  been affiliated with.
 {: .notice}
