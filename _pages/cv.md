@@ -8,18 +8,23 @@ redirect_from:
 ---
 
 
-CV can be downloaded [here](https://github.com/raboam/amineraboun-resume/raw/main/amineraboun_resume.pdf) 
+CV can be downloaded [here](https://github.com/amineraboun/amineraboun.github.io/raw/master/_pages/Amine_Raboun_Resume.pdf) 
 
 Work experience
 ======
 * June 2022 - Present: ADIA - **Quantitative Researcher & Developer**
   - Design systematic trading strategies, in a scientific approach, leveraging big data, statistics and machine learning
   - Develop automated tools in Python and SQL to fetch, curate, and store financial data
+  - Carry out unconditional data-curation : statistical tests to identify biases, structural-breaks, causa-
+lity links, etc.
 
 * Oct 2017 - June 2022: Euronext Paris - **Senior Index Structuring**
-    - Design equity indices for various market needs used as underlyings for ETFs, Structured Product and Formula based funds
-    - A large spectrum of thematic strategies (Fundamental Factors, Smart Beta, Alternative data based, ESG, PAB/CTB, SBT ...)
-    - Develop the data infra-structured and a python-based web platform for portfolio construction and strategies back-testing.
+    - Design bespoke equity indices
+      - serving as underlying portfolios for ETFs, Structured Product and Formula based funds
+      - covering a large spectrum of thematic strategies (Fundamental Factors, Smart Beta, Alternative data based, ESG, PAB/CTB, SBT ...)
+      - ranging from plain-vanilla free float market cap benchmarks to optimization handling turnover, transaction costs and factor and sectors exposures
+    - Developed a Python-based web platform for portfolio construction and strategies back-testing.
+    - Constructed the data infra-structured, and the ETL pipeline feeding the back-tester
 
 * March - September 2017: Capital Fund Management - **Equity Researcher**
     - Analyzed Asset Pricing Anomalies scalability after trading costs
@@ -29,6 +34,20 @@ Work experience
     - Publication of a broker note entitled : Selecting the best price momentum strategy for your investment horizon
     - Design of systemic trading strategies on European Equity Markets (Statistical arbitrage, Peer-trading).
 
+Teaching
+======
+
+* April 2023: **FX Intervention Rules: A Risk-Based Framework** 
+  - IMF – Singapore Regional Training Institute (STI)
+  - Audience: Central Bankers
+
+* 2018 - Present: **Strategies and Actors in Financial Markets**
+  - Paris-Dauphine Lectures 
+  - Audience: Msc Applied Mathematics, MASEF, 203
+
+* 2017: **Introduction to Python programming**
+  - Paris-Dauphine Practical Sessions
+  - Audience: Bachelor students
 
 Education
 ======
