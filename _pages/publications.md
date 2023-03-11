@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -13,7 +13,7 @@ Book:
 [World Scientific Publisher](https://worldscientific.com/worldscibooks/10.1142/12731#t=aboutBook)
 with Lehalle, C. A.
 
-<img align="right" width="3(0" height="400" src="https://github.com/amineraboun/amineraboun.github.io/raw/master/images/Mybook_cover.jfif/350/400">
+<img align="right" width="250" height="350" src="https://github.com/amineraboun/amineraboun.github.io/raw/master/images/Mybook_cover.jfif">
 
 *The financial industry has been disrupted by three major innovations: First, Big data has played a key role in the development of the industry, then machine learning and nowadays artificial intelligence (AI) are both changing the way we are doing business. These innovations were rapidly adopted by the financial sector as it is the first ranked sector in terms of technology consumption. Compared to other sectors, the amount of data handled is far bigger than the rest of the industries. In the heavy industry, for instance, the data are essentially generated from sensors deployed on the field. These sensors were constructed with a clear view of their purpose and used to asses a certain physical metric that gives insight on the state of production. What really matters is not the amount of data we can store but the quality of each metric that we dispose of, which is solely determined by the sensor’s quality. In contrast, the financial industry is a worldwide interconnected network where the smallest information in a tiny country could storm the entire system and put it in dire straits. Therefore, we need to keep track of a lot of information related to the real economy, to asset classes, financial products and interdependencies, as to stay alert to potential hidden risks. Needless to mention the growing need for continuous now-casting and short term forecasting of real economy for investment purposes which increased the complexity of managing non-structured data composed of numerical information, text (from web and news) and images (from satellites). All these implications make the financial industry the number one field of application for new technologies. In this chapter, we will focus on the impact of these new technologies on the financial system and how they changed its landscape. We will discuss the impact of FinTechs on improving customer relationships by personalizing the service to enhance their experience. We will also look further into the role of technology to better connect the financial system to the real economy.*
 
