@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-CV can be downloaded [here](https://github.com/amineraboun/amineraboun.github.io/raw/master/_pages/Amine_Raboun_Resume.pdf) 
+Resume can be downloaded [here](https://github.com/amineraboun/amineraboun.github.io/raw/master/_pages/Amine_Raboun_Resume.pdf) 
 
 Work experience
 ======
