@@ -34,14 +34,14 @@ Course Material
 
 |Title | Speaker | Organization | Slides |
 |:---|:---:|:---:|:---:|
-| Organization of the Financial System | Amine Raboun | Quantitative R&D, ADIA – UAE |  Download |
-| Market Microstructure and Flow Trading for Intermediaries | Amine Raboun | Quantitative R&D, ADIA – UAE | Download |
-| Structured Products: Investment Banks offers & Investors needs | Christophe Lesieur| Head of Financial Engineering, LFIS Capital – France | Download |
-| Risk Management at the Scale of an Investment Bank | Pascal Gibart | Head of Market Risk Quants, Credit Agricole CIB – France| Download |
-| Post 2008 Crisis Regulation | Julien Leprun | Deputy head of Data & Surveillance Dept, AMF – France| Download |
-| The Investment Process in a Changing World| Amine Raboun | Quantitative R&D, ADIA – UAE | Download |
-| IA and the Finanacial System: Will Internediaries be Disintermediated | Charles-Albert Lehalle | Global Head of Quantitative R&D, ADIA – UAE | Download |
-| Alternative Data Changing the Investment Process | Charles-Albert Lehalle | Global Head of Quantitative R&D, ADIA – UAE |Download |
+| Organization of the Financial System | Amine Raboun | Quantitative R&D, ADIA – UAE |  [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/1st%20session%20-%20financial%20system.pdf) |
+| Market Microstructure and Flow Trading for Intermediaries | Amine Raboun | Quantitative R&D, ADIA – UAE | [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/2nd%20session%20-%20flow%20trading.pdf) |
+| Structured Products: Investment Banks offers & Investors needs | Christophe Lesieur| Head of Financial Engineering, LFIS Capital – France | [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/3rd%20session%20-structured%20products.pdf)|
+| Risk Management at the Scale of an Investment Bank | Pascal Gibart | Head of Market Risk Quants, Credit Agricole CIB – France| [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/4th%20session%20-banking%20risk.pdf) |
+| Post 2008 Crisis Regulation | Julien Leprun | Deputy head of Data & Surveillance Dept, AMF – France| [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/5th%20session%20-regulation.pdf) |
+| The Investment Process in a Changing World| Amine Raboun | Quantitative R&D, ADIA – UAE | [Download]() |
+| IA and the Finanacial System: Will Internediaries be Disintermediated | Charles-Albert Lehalle | Global Head of Quantitative R&D, ADIA – UAE | [Download]() |
+| Alternative Data Changing the Investment Process | Charles-Albert Lehalle | Global Head of Quantitative R&D, ADIA – UAE |[Download]() |
 
 
 
