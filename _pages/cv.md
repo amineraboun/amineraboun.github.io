@@ -69,5 +69,5 @@ GRANTS
 
 Service and leadership
 ======
-* President of T´el´ecom ParisTech Moroccan Student Association
+* President of Télécom ParisTech Moroccan Student Association
 * Prepare top-ranked Moroccan students in preparatory classes for oral entry exams to French engineering Schools
