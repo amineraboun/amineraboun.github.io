@@ -1,14 +1,14 @@
 ---
 title: "FX Intervention Rules: A Risk-Based Framework"
 collection: teaching
-type: "IMF Regional Traning Program"
+type: "IMF - Singapore Regional Traning Program (STI)"
 permalink: /teaching/FX-Intervention-Rules-Risk-Based-Framework
 venue: "IMF - STI"
 date: 2023-04-17
 location: "Singpore"
 ---
 
-
+The lecture intorduces a novel framework for foreign exchange intervention based on Value at Risk, enabling central banks to intervene effectively in the market
 
 Motivation
 ======
