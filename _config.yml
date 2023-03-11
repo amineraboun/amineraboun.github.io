@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Amine Raboun"
   avatar           : "profile.png"
-  bio              : "Quantitative Researcher and Developer"
+  bio              : "Quantitative Researcher & Developer at Abu Dhabi Investment Authority (ADIA)"
   location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?hl=en&user=nnp41kMAAAAJ"
   email            :
-  researchgate     : # "https://www.researchgate.net/profile/Amine-Raboun" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Amine-Raboun" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/amine-r-6412307a"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
