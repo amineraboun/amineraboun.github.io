@@ -8,6 +8,7 @@ date: 2023-01-01
 location: "Paris, France"
 ---
 
+The course is an introduction for students with a strong background in math, quantitative modeling, econometrics, and machine learning who are interested in a career in finance. The course features conferences with industry experts and covers all aspects of the financial industry, aiming to equip students with critical knowledge about their future environment. 
 
 Motivation
 ======
