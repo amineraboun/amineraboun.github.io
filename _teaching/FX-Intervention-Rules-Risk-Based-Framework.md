@@ -2,7 +2,7 @@
 title: "FX Intervention Rules: A Risk-Based Framework"
 collection: teaching
 type: "IMF - Singapore Regional Traning Program (STI)"
-permalink: /teaching/FX-Intervention-Rules-Risk-Based-Framework.md
+permalink: /teaching/FX-Intervention-Rules-Risk-Based-Framework
 venue: "IMF - STI"
 date: 2023-04-17
 location: "Singpore"
