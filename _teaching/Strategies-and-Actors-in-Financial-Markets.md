@@ -69,7 +69,7 @@ The following is a list of documents that may be of interest to those who want t
 6. Corporate bonds
 [link](https://www.sciencedirect.com/topics/economics-econometrics-and-finance/corporate-bond)
 
-### Market Microstructure and Flow Trading for Intermediaries 
+## Market Microstructure and Flow Trading for Intermediaries 
 
 1. Transaction Costs Analysis: Emphasis on bid-ask spread and market impact
 [link](https://www.koris-intl.com/wp-content/uploads/Cash-Equity-Transaction-Cost-Analysis.pdf)
@@ -87,7 +87,7 @@ The following is a list of documents that may be of interest to those who want t
 [link](https://sniperinmahwah.wordpress.com/2015/06/01/hlt-as-in-high-latency-trading/)
 
 
-### Structure Products:
+## Structure Products:
 1. OTC Derivatives Market Analysis Year-End 2012
 [link](http://www2.isda.org/attachment/NTY4MQ==/ISDA%20Year-End%202012%20Market%20Analysis%20FINAL.pdf)
 
@@ -103,7 +103,7 @@ The following is a list of documents that may be of interest to those who want t
 5. Template for structured product description
 [link](http://www.sfc.hk/edistributionWeb/gateway/EN/consultation/openAppendix?refNo=09CP3&appendix=13)
 
-### Risk Management at the Scale of an Investment Bank
+## Risk Management at the Scale of an Investment Bank
 1. Risk seen by a Nobel Prize (in physics): Personal observations on the reliability of the Shuttle by R. P. Feynman
 [link](https://science.ksc.nasa.gov/shuttle/missions/51-l/docs/rogers-commission/Appendix-F.txt)
 
@@ -126,7 +126,7 @@ The following is a list of documents that may be of interest to those who want t
 6. The volatility smile: Laughter in the Dark - The Problem of the Volatility Smile, Derman: Page 1 to 10
 [link](http://emanuelderman.com/wp-content/uploads/2003/04/Amsterdam.pdf)
 
-### Post 2008 Crisis Regulation
+## Post 2008 Crisis Regulation
 1. G20 Pittsburgh
 [link](http://www.g20.utoronto.ca/2009/2009communique0925-fr.html)
 
@@ -142,7 +142,7 @@ The following is a list of documents that may be of interest to those who want t
 5. Front Running of Block Transactions
 [link](http://www.shearman.com/~/media/Files/NewsInsights/Publications/2013/01/FINRA%20Rule%205270%20FAQs%20Front%20Running%20of%20Block%20Tran__/Files/View%20full%20memo%20FINRA%20Rule%205270%20FAQs%20Front%20Runnin__/FileAttachment/FINRARule5270FAQsFrontRunningofBlockTransactions__.pdf)
 
-### The Investment Process in a Changing World
+## The Investment Process in a Changing World
 
 1. Investment Committees: Vanguard views of best practices
 [link](https://www.vanguardinvestments.se/documents/investment-committee-best-practices.pdfhttp://www.vanguard.com/pdf/ICRIC_062004.pdf)
