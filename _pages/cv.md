@@ -61,7 +61,7 @@ Skills
 * Computer Skills: Python, Matlab, C++, SQL, AWS Cloud Computing, GCP, Linux, Git
 * Financial Platforms: Bloomberg, Refinitive, Factset, Markit.
 
-GRANTS
+Grants
 ======
 * Ph.D. Scholarship - French Ministry of Higher Education and Research.
 * Major-Excellence Scholarship for top ranked in preparatory classes (ranked 15 in Morocco) - Campus France
