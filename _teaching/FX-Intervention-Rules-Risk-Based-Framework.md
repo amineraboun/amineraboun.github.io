@@ -69,7 +69,7 @@ The practical skills developed in this course will be invaluable to central bank
 |11:30 – 12:30| L-2| **Central Bank Interventions: International Practices (lecture)**  <br/> Mr. Romain Lafarguette  <br/> IMF consultant|Dowload |
 |14:00 – 15:15|	L-3| **General Introduction to Python (lecture)**  <br/> Mr. Amine Raboun  <br/> IMF consultant|Dowload |
 |15:30 – 17:30|	W-2| **Data Manipulation and Visualization with Python (workshop)**  <br/>Mr. Zhuohui Chen  <br/> IMF research analyst, Monetary and Capital Markets Dept.||
-|Tuesday, April 18||
+|Tuesday, April 18|||
 |9:00 – 10:30| L–4|	**Introduction to Key Statistical Concepts (lecture)**  <br/> Mr. Romain Lafarguette  <br/> IMF consultant|Dowload |
 |10:45 – 12:30|	W-3|**Statistical Analysis with Python (workshop)**  <br/>Mr. Zhuohui Chen <br/>IMF research analyst, Monetary and Capital Markets Dept.||
 |14:00 – 15:15|	L–5|**Time Series Econometrics (lecture)** <br/>Mr. Amine Raboun <br/>IMF consultant|Dowload |
@@ -83,7 +83,7 @@ The practical skills developed in this course will be invaluable to central bank
 |9:00 – 10:30|	L–8	|**IMF Risk Based Model for Foreign Exchange intervention (lecture)** <br/>Mr. Romain Lafarguette<br/>IMF consultant|Dowload |
 |10:45 – 12:30|	W–7|**Introduction to the IMF Software Infrastructure for Modelling Conditional Foreign Exchange intervention Triggers (workshop)** <br/>Mr. Zhuohui Chen<br/>IMF research analyst, Monetary and Capital Markets||
 |14:00 – 17:30|	W–8|**Application of the IMF Software Infrastructure on Case Study and Preparation for the Presentations (Breakout)** <br/>Messrs. Chen, Lafarguette and Raboun <br/> IMF research analyst, Monetary and Capital Markets Dept. <br/> IMF consultants||
-|Friday, April 21||
+|Friday, April 21|||
 |9:00 – 11:00|	W–9|**Participants’ Presentations on Case Studies (Plenary)**||
 |11:00 – 11:30|		|**End-of-Course Survey**||
 |11:30 – 12:30|		|**Closing Session and Presentation of Certificates**|| 
