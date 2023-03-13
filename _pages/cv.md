@@ -15,8 +15,7 @@ Work experience
 * June 2022 - Present: ADIA - **Quantitative Researcher & Developer**
   - Design systematic trading strategies, in a scientific approach, leveraging big data, statistics and machine learning
   - Develop automated tools in Python and SQL to fetch, curate, and store financial data
-  - Carry out unconditional data-curation : statistical tests to identify biases, structural-breaks, causa-
-lity links, etc.
+  - Carry out unconditional data-curation : statistical tests to identify biases, structural-breaks, causality links, etc.
 
 * Oct 2017 - June 2022: Euronext Paris - **Senior Index Structuring**
     - Design bespoke equity indices
