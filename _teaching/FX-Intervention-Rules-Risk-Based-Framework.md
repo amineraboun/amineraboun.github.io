@@ -20,46 +20,31 @@ By attending this course, participants will gain a deeper understanding of key s
 
 The practical skills developed in this course will be invaluable to central bankers and policymakers, enabling them to intervene effectively in the market and gain practical skills that can be immediately applied in their roles.
 
-[//]: # (# Course Material)
+# Course Materia
 
-[//]: # ()
-[//]: # (* Central Bank Interventions:)
+* Central Bank Interventions
+    - Lecture 1: Theory
+    - Lecture 2: International Practice
 
-[//]: # (    - Lecture 1: Theory )
+* Statistics 
+    - Lecture: Introduction to Key Statistical Concepts
+    - Workshop: Data Manipulation and Visualization with Pytho
 
-[//]: # (    - Lecture 2: International Practices)
+* Econometrics
+    - Lecture: Time Series Econometric
+    - Workshop: Timeseries modelling with Python
 
-[//]: # ()
-[//]: # (* Statistics :)
-
-[//]: # (    - Lecture: Introduction to Key Statistical Concepts )
-
-[//]: # (    - Workshop: Data Manipulation and Visualization with Python)
-
-[//]: # (* Econometrics:)
-
-[//]: # (    - Lecture: Time Series Econometrics)
-
-[//]: # (    - Workshop: Timeseries modelling with Python )
-
-[//]: # (   )
-[//]: # (* Volatility Modeling: )
-
-[//]: # (    - Lecture: Forecast Volatility and Value at Risk Modelling )
-
-[//]: # (    - Lecture: Advanced Techniques for Model Evaluation, Selection and Combination )
-
-[//]: # (    - Workshop: Advanced Voaltility Modelling with Python )
-
-[//]: # (    )
-[//]: # (* Risk Based Model for Foreign Exchange intervention )
-
-[//]: # (    - Lecture: Model introduction )
-
-[//]: # (    - Workshop: Model deployment )
+* Volatility Modeling:
+    - Lecture: Forecast Volatility and Value at Risk Modelling
+    - Lecture: Advanced Techniques for Model Evaluation, Selection and Combination
+    - Workshop: Advanced Voaltility Modelling with Python
+   
+* Risk Based Model for Foreign Exchange intervention
+    - Lecture: Model introduction
+    - Workshop: Model deployment
 
 
-## PROGRAM
+<!-- ## PROGRAM
 |   |     |    |     |
 |---|:---:|:---|:---:|
 | Monday, April 17 |||
@@ -87,3 +72,4 @@ The practical skills developed in this course will be invaluable to central bank
 |9:00 – 11:00|	W–9|**Participants’ Presentations on Case Studies (Plenary)**||
 |11:00 – 11:30|		|**End-of-Course Survey**||
 |11:30 – 12:30|		|**Closing Session and Presentation of Certificates**|| 
+ -->
