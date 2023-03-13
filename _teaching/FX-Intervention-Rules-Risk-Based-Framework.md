@@ -20,26 +20,70 @@ By attending this course, participants will gain a deeper understanding of key s
 
 The practical skills developed in this course will be invaluable to central bankers and policymakers, enabling them to intervene effectively in the market and gain practical skills that can be immediately applied in their roles.
 
-# Course Material
+[//]: # (# Course Material)
 
-* Central Bank Interventions:
-    - Lecture 1: Theory 
-    - Lecture 2: International Practices
+[//]: # ()
+[//]: # (* Central Bank Interventions:)
 
-* Statistics :
-    - Lecture: Introduction to Key Statistical Concepts 
-    - Workshop: Data Manipulation and Visualization with Python
-* Econometrics:
-    - Lecture: Time Series Econometrics
-    - Workshop: Timeseries modelling with Python 
-   
-* Volatility Modeling: 
-    - Lecture: Forecast Volatility and Value at Risk Modelling 
-    - Lecture: Advanced Techniques for Model Evaluation, Selection and Combination 
-    - Workshop: Advanced Voaltility Modelling with Python 
-    
-* Risk Based Model for Foreign Exchange intervention 
-    - Lecture: Model introduction 
-    - Workshop: Model deployment 
+[//]: # (    - Lecture 1: Theory )
+
+[//]: # (    - Lecture 2: International Practices)
+
+[//]: # ()
+[//]: # (* Statistics :)
+
+[//]: # (    - Lecture: Introduction to Key Statistical Concepts )
+
+[//]: # (    - Workshop: Data Manipulation and Visualization with Python)
+
+[//]: # (* Econometrics:)
+
+[//]: # (    - Lecture: Time Series Econometrics)
+
+[//]: # (    - Workshop: Timeseries modelling with Python )
+
+[//]: # (   )
+[//]: # (* Volatility Modeling: )
+
+[//]: # (    - Lecture: Forecast Volatility and Value at Risk Modelling )
+
+[//]: # (    - Lecture: Advanced Techniques for Model Evaluation, Selection and Combination )
+
+[//]: # (    - Workshop: Advanced Voaltility Modelling with Python )
+
+[//]: # (    )
+[//]: # (* Risk Based Model for Foreign Exchange intervention )
+
+[//]: # (    - Lecture: Model introduction )
+
+[//]: # (    - Workshop: Model deployment )
 
 
+## PROGRAM
+|   |     |    |     |
+|---|:---:|:---|:---:|
+| Monday, April 17 |||
+|9:00 - 9:15 ||**Administrative Briefing**||
+|9:15 – 9:45||**Opening Session**  <br/> **Staff** of IMF – Singapore Regional Training Institute (STI)  <br/> **Teaching Team** of IMF||
+|10:00 – 11:30| L-1| **Central Bank Interventions: Theory (lecture)** <br/>  Mr. Romain Lafarguette  <br/> IMF consultant| Dowload |
+|11:30 – 12:30| L-2| **Central Bank Interventions: International Practices (lecture)**  <br/> Mr. Romain Lafarguette  <br/> IMF consultant|Dowload |
+|14:00 – 15:15|	L-3| **General Introduction to Python (lecture)**  <br/> Mr. Amine Raboun  <br/> IMF consultant|Dowload |
+|15:30 – 17:30|	W-2| **Data Manipulation and Visualization with Python (workshop)**  <br/>Mr. Zhuohui Chen  <br/> IMF research analyst, Monetary and Capital Markets Dept.||
+|Tuesday, April 18||
+|9:00 – 10:30| L–4|	**Introduction to Key Statistical Concepts (lecture)**  <br/> Mr. Romain Lafarguette  <br/> IMF consultant|Dowload |
+|10:45 – 12:30|	W-3|**Statistical Analysis with Python (workshop)**  <br/>Mr. Zhuohui Chen <br/>IMF research analyst, Monetary and Capital Markets Dept.||
+|14:00 – 15:15|	L–5|**Time Series Econometrics (lecture)** <br/>Mr. Amine Raboun <br/>IMF consultant|Dowload |
+|15:30 – 17:30|	W-4|**Time Series Econometrics with Python (workshop)** <br/>Mr Zhuohui Chen <br/> IMF research analyst, Monetary and Capital Markets Dept. <br/>Amine Raboun <br/>IMF consultant||
+|Wednesday, April 19|||
+|9:00 – 10:30| 	L–6|**Forecast Volatility and Value at Risk Modelling (lecture)** <br/>Mr. Amine Raboun <br/>IMF consultant|Dowload |
+|10:45 – 12:30|	W-5|**Advanced Volatility modelling with Python (workshop)** <br/> Mr Zhuohui Chen and Amine Raboun <br/>IMF research analyst, Monetary and Capital Markets Dept.  <br/> IMF consultant||
+|14:00– 15:15|	L–7|**Advanced Techniques for Model Evaluation, Selection and Combination (lecture)** <br/>Mr. Romain Lafarguette <br/>IMF consultant|Dowload |
+|15:30 – 17:30|	W-6|**Model evaluation and interpretation with Python (workshop)** <br/>Mr. Zhuohui Chen and Amine Raboun <br/>IMF research analyst, Monetary and Capital Markets <br/>IMF consultant||
+|Thursday, April 20|||
+|9:00 – 10:30|	L–8	|**IMF Risk Based Model for Foreign Exchange intervention (lecture)** <br/>Mr. Romain Lafarguette<br/>IMF consultant|Dowload |
+|10:45 – 12:30|	W–7|**Introduction to the IMF Software Infrastructure for Modelling Conditional Foreign Exchange intervention Triggers (workshop)** <br/>Mr. Zhuohui Chen<br/>IMF research analyst, Monetary and Capital Markets||
+|14:00 – 17:30|	W–8|**Application of the IMF Software Infrastructure on Case Study and Preparation for the Presentations (Breakout)** <br/>Messrs. Chen, Lafarguette and Raboun <br/> IMF research analyst, Monetary and Capital Markets Dept. <br/> IMF consultants||
+|Friday, April 21||
+|9:00 – 11:00|	W–9|**Participants’ Presentations on Case Studies (Plenary)**||
+|11:00 – 11:30|		|**End-of-Course Survey**||
+|11:30 – 12:30|		|**Closing Session and Presentation of Certificates**|| 
