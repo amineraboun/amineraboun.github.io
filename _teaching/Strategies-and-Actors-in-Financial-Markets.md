@@ -39,7 +39,7 @@ Course Material
 | Structured Products: Investment Banks offers & Investors needs | [Christophe Lesieur](https://www.linkedin.com/in/christophelesieur/) | Head of Financial Engineering, LFIS Capital – France | [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/3rd%20session%20-structured%20products.pdf)|
 | Risk Management at the Scale of an Investment Bank | [Pascal Gibart](https://www.linkedin.com/in/pascal-gibart-59a5a04/?originalSubdomain=fr) | Head of Market Risk Quants, Credit Agricole CIB – France| [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/4th%20session%20-banking%20risk.pdf) |
 | Post 2008 Crisis Regulation | [Julien Leprun](https://www.linkedin.com/in/julien-leprun-9380055/?originalSubdomain=fr) | Deputy head of Data & Surveillance Dept, AMF – France| [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/5th%20session%20-regulation.pdf) |
-| The Investment Process in a Changing World| [Amine Raboun](https://amineraboun.github.io/) | Quantitative R&D, ADIA – UAE | Download |
+| The Investment Process in a Changing World| [Amine Raboun](https://amineraboun.github.io/) | Quantitative R&D, ADIA – UAE | [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/6th%20session%20-%20asset%20management.pdf) |
 | IA and the Finanacial System: Will Internediaries be Disintermediated | [Charles-Albert Lehalle](https://www.linkedin.com/in/lehalle/?originalSubdomain=ae) | Global Head of Quantitative R&D, ADIA – UAE | Download |
 | Alternative Data Changing the Investment Process | [Charles-Albert Lehalle](https://www.linkedin.com/in/lehalle/?originalSubdomain=ae)  | Global Head of Quantitative R&D, ADIA – UAE | Download |
 
