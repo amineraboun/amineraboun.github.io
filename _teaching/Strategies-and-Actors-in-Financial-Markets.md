@@ -40,8 +40,20 @@ Course Material
 | Risk Management at the Scale of an Investment Bank | [Pascal Gibart](https://www.linkedin.com/in/pascal-gibart-59a5a04/?originalSubdomain=fr) | Head of Market Risk Quants, Credit Agricole CIB – France| [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/4th%20session%20-banking%20risk.pdf) |
 | Post 2008 Crisis Regulation | [Julien Leprun](https://www.linkedin.com/in/julien-leprun-9380055/?originalSubdomain=fr) | Deputy head of Data & Surveillance Dept, AMF – France| [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/5th%20session%20-regulation.pdf) |
 | The Investment Process in a Changing World| [Amine Raboun](https://amineraboun.github.io/) | Quantitative R&D, ADIA – UAE | [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/6th%20session%20-%20asset%20management.pdf) |
-| IA and the Finanacial System: Will Internediaries be Disintermediated | [Charles-Albert Lehalle](https://www.linkedin.com/in/lehalle/?originalSubdomain=ae) | Global Head of Quantitative R&D, ADIA – UAE | Download |
-| Alternative Data Changing the Investment Process | [Charles-Albert Lehalle](https://www.linkedin.com/in/lehalle/?originalSubdomain=ae)  | Global Head of Quantitative R&D, ADIA – UAE | Download |
+| IA and the Finanacial System: Will Internediaries be Disintermediated | [Charles-Albert Lehalle](https://www.linkedin.com/in/lehalle/?originalSubdomain=ae) | Global Head of Quantitative R&D, ADIA – UAE | [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/7th%20session%20-%20Will%20intermediaries%20be%20Disintermediated.pdf)  |
+| Alternative Data Changing the Investment Process | [Charles-Albert Lehalle](https://www.linkedin.com/in/lehalle/?originalSubdomain=ae)  | Global Head of Quantitative R&D, ADIA – UAE | [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/8th%20session%20-%20Alternative%20Data%20For%20Investment.pdf) |
+
+Evaluation
+======
+
+* 50% QCM. At the end of the course, I will ask you to answer a QCM online composed of 5 to 6 questions per session. The questions will be linked to points that  the speaker has emphasized or written in the slide that I will be sharing with you after the end of each session
+* 50% document submission:
+In the section **Further readings**, you will find a list of documents related to the topic discussed during the course. Choose 1 document from this list (1 document in total, not 1 document per session)
+Summarize it in 5 slides maximum. It must include at least 1 diagram and the following points
+   An Explanation of the problematic
+   A clear link to the session 
+   What have you learned? 
+   What are the open questions?
 
 
 Further readings
