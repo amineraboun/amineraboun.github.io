@@ -46,14 +46,25 @@ Course Material
 Evaluation
 ======
 
-* 50% QCM. At the end of the course, I will ask you to answer a QCM online composed of 5 to 6 questions per session. The questions will be linked to points that  the speaker has emphasized or written in the slide that I will be sharing with you after the end of each session
-* 50% document submission:
-In the section **Further readings**, you will find a list of documents related to the topic discussed during the course. Choose 1 document from this list (1 document in total, not 1 document per session)
-Summarize it in 5 slides maximum. It must include at least 1 diagram and the following points
-   An Explanation of the problematic
-   A clear link to the session 
-   What have you learned? 
-   What are the open questions?
+## Evaluation Method
+The evaluation of the course consists of two parts, each accounting for 50% of the final grade:
+
+* 50% QCM (multiple-choice questions) online submission at the end of the course.
+   - The QCM will consist of 5 to 6 questions per session, focused on the key points that the speaker emphasized during the session or that are clearly stated in the slides.
+* 50% document analysis submission:
+   - The second part of the evaluation involves submitting an analysis of a relevant document related to the course topic. In the "Further Readings" section, you will find a list of relevant documents from which to choose one for analysis. The analysis should be summarized in 5 slides or fewer and should include the following:
+      - An explanation of the problem addressed in the document
+      - A clear link to the session topic
+      - What you learned from the document ?
+      - Open questions that remain after analyzing the document
+      - At least one diagram to support your analysis
+
+## Instructions for 2022-2023
+Please access the QCM via this [link](https://docs.google.com/forms/d/1V2kklTOAGjCYhTRAlC4AB_4OM2PPXg0RdllLzJBtGJ4/edit). 
+
+The first question of the QCM will ask you to upload your document analysis. Please ensure that your document analysis is uploaded to the corresponding question in the QCM, and not sent to my by email. If you have already sent your analysis by email, please make sure to upload it to the QCM as well, as previous submissions won't be considered.
+
+> All submissions must be completed by the end of next week, **before midnight on April 9th.**
 
 
 Further readings
