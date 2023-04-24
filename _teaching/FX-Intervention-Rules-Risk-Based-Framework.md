@@ -3,21 +3,18 @@ title: "FX Intervention Rules: A Risk-Based Approach (FIRARBF)"
 collection: teaching
 type: "International Monatry Fund (IMF) – Singapore Regional Training Institute (STI)"
 permalink: /teaching/FX-Intervention-Rules-Risk-Based-Framework
-venue: "Singapore, April 17 – 21, 2023"
+venue: "Singapore, April 17 – 21"
 date: 2023-04-17
 location: "Singpore"
 ---
 
-
-The lecture intorduces a novel framework for foreign exchange intervention based on Value at Risk, enabling central banks to intervene effectively in the market to support their currencies
+This is a five-day course that aims to train participants, mostly from central banks, on the theoretical and practical aspects of central bank interventions in foreign exchange markets.
 
 **International Monatry Fund (IMF) – Singapore Regional Training Institute (STI)**
 
 **Course on FX Intervention Rules: A Risk-Based Approach (FIRARBF)**
 
 **Singapore, April 17 – 21, 2023**
-
-[Course Website](https://amineraboun.github.io/STI_FX_Intervention/docs/index.html)
 
 # Description
 This is a five-day course that aims to train participants, mostly from central banks, on the theoretical and practical aspects of central bank interventions in foreign exchange markets. The course is organized by the IMF-Singapore Regional Training Institute (STI) and taught by a team of IMF consultants.
