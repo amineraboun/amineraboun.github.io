@@ -13,9 +13,10 @@ Resume can be downloaded [here](https://github.com/amineraboun/amineraboun.githu
 Work experience
 ======
 * June 2022 - Present: ADIA - **Quantitative Researcher & Developer**
+  - Buy-side quant, ADIA quant team ("Q")
+  - Macro-signals generation, risk modeling, and portfolio construction for asset allocation
   - Design systematic trading strategies, in a scientific approach, leveraging big data, statistics and machine learning
-  - Develop automated tools in Python and SQL to fetch, curate, and store financial data
-  - Carry out unconditional data-curation : statistical tests to identify biases, structural-breaks, causality links, etc.
+  
 
 * Oct 2017 - June 2022: Euronext Paris - **Senior Index Structuring**
     - Design bespoke equity indices
@@ -31,13 +32,13 @@ Work experience
 
 * April - December 2016: Kepler Cheuvreux - **Equity Research**
     - Publication of a broker note entitled : Selecting the best price momentum strategy for your investment horizon
-    - Design of systemic trading strategies on European Equity Markets (Statistical arbitrage, Peer-trading).
+    - Design of systemic trading strategies on European Equity Markets (Statistical arbitrage, Pairs-trading).
 
 Teaching
 ======
 
 * April 2023: **FX Intervention Rules: A Risk-Based Framework** 
-  - IMF – Singapore Regional Training Institute (STI)
+  - IMF – Singapore Regional Training Institute (STI) [course website](https://amineraboun.github.io/STI_FX_Intervention/docs/index.html)
   - Audience: Central Bankers
 
 * 2018 - Present: **Strategies and Actors in Financial Markets**
