@@ -18,11 +18,11 @@ Work experience
   - Multi-asset allocation (strategic and tactical) and portfolio construction
   - Design systematic trading strategies, in a scientific approach, leveraging big data, statistics, and machine learning
 
-* April 2023 - Present: International Monetary Fund - **Consultant**
+* April 2023 - Present: International Monetary Fund - **IMF Consultant**
   - Mission with Central Banks: Technical assistance in liquidity forecasting, monetary framework, and calibration of the monetary operations
   - Teaching advanced modeling techniques at the Asian regional training institute: Point forecasts, volatility modeling, density estimations
 
-* Oct 2017 - June 2022: Euronext Paris - **Senior Index Structuring**
+* Oct 2017 - June 2022: Euronext Paris - **Senior Index Structurer**
     - Design bespoke equity indices
       - serving as underlying portfolios for ETFs, Structured Products, and Formula based funds
       - covering a large spectrum of thematic strategies (Fundamental Factors, Smart Beta, Alternative data based, ESG, PAB/CTB, SBT ...)
@@ -34,7 +34,7 @@ Work experience
     - Analyzed Asset Pricing Anomalies' scalability after trading costs
     - Filtered the Momentum factor from price returns using Kalman Filter
 
-* April - December 2016: Kepler Cheuvreux - **Equity Research**
+* April - December 2016: Kepler Cheuvreux - **Equity Researcher**
     - Publication of a broker note entitled: Selecting the best price momentum strategy for your investment horizon
     - Design systemic trading strategies on European Equity Markets (Statistical arbitrage, Pairs-trading).
 
@@ -88,14 +88,15 @@ With [Briere, M.](http://mariebriere.fr), [Lehalle, C. A.](https://ae.linkedin.c
 Broker Note
 -----------
 **Selecting the best price momentum strategy for your investment horizon**  
-``KeplerCheuvreux Dec 2016 Note``
+KeplerCheuvreux Dec 2016 Note
 
 Open-Source Statistical tools
 =============================
-* Distributional GaRCH model to design VaR-based FX Interventions for Central Banks
-  - Package available on [PyPi](https://pypi.org/project/varfxi/)
-* Forecast selection and aggregation used by Central Banks to compare models and design the best out-of-sample forecasts for liquidity autonomous factors
-  - Package available on [PyPi](https://pypi.org/project/forecast-combine/))
+* Distributional GaRCH model to design VaR-based FX Interventions for Central Banks.
+  Package available on [PyPi](https://pypi.org/project/varfxi/)
+  
+* Forecast selection and aggregation used by Central Banks to compare models and design the best out-of-sample forecasts for autonomous factors.
+  Package available on [PyPi](https://pypi.org/project/forecast-combine/)
 
 Skills
 ======
