@@ -17,8 +17,10 @@ I create open-source Python statistical tools tailored for central banks, quants
 
 Model selection and combination for forecasts
 =============================================
+
 Overview
 --------
+
 `forecast_combine` is a Python library built upon the foundation of the sktime library, designed to simplify and streamline the process of forecasting and prediction model aggregation. It provides tools for aggregating predictions from multiple models, evaluating their performance, and visualizing the results. Whether you're working on time series forecasting, data analysis, or any other predictive modeling task, forecast_combine offers a convenient and efficient way to handle aggregation and comparison.
 
 Key Features
@@ -47,6 +49,7 @@ Distributional GaRCH model to design VaR-based FX Interventions for Central Bank
 
 Overview
 --------
+
 `varfxi` is a Python module that extends the ARCH package by K. Sheppard, focusing on estimating conditional densities from various GaRCH models. It particularly aims to facilitate VaR-based interventions in the foreign exchange (FX) market for central banks. Practical usage examples and theoretical insights can be found on the [STI course website](https://amineraboun.github.io/STI_FX_Intervention/docs/index.html), showcasing its relevance in enhancing central banks risk management setup.
 
 Key Features
