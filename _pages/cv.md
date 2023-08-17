@@ -62,24 +62,28 @@ Education
 
 Publications
 ============
+
 Book
 ----
 
 **Financial Markets in Practice, From Post-Crisis Intermediation to FinTechs.**  
-``World Scientific Publisher. with Lehalle, C. A. (2022).``
+[World Scientific Publisher](https://worldscientific.com/worldscibooks/10.1142/12731#t=aboutBook)
+with [Lehalle, C. A.](https://ae.linkedin.com/in/lehalle)
 
 Academic Research
 -----------------
 
 **Stock market liquidity and the trading costs of asset pricing anomalies**  
-``Universit´e Paris-Dauphine Research Paper, (3380239) (2019). with Briere, M., Lehalle, C. A., Nefedova, T.``
+[Université Paris-Dauphine Research Paper, (3380239) (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3380239)
+With [Briere, M.](http://mariebriere.fr), [Lehalle, C. A.](https://ae.linkedin.com/in/lehalle), [Nefedova, T.](https://www.tamaranefedova.com/home)
 
 **Modelling Transaction Costs When Trades May Be Crowded: A Bayesian Network Using Partially Observable Orders Imbalance**  
-``Machine Learning for Asset Management: New Developments and Financial Applications (2020):
-387-430. with Briere, M., Lehalle, C. A., Nefedova, T.``
+[Machine Learning for Asset Management (2020)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420665)
+With [Briere, M.](http://mariebriere.fr), [Lehalle, C. A.](https://ae.linkedin.com/in/lehalle), [Nefedova, T.](https://www.tamaranefedova.com/home)
 
 **Liquidity Provision and Market-Making in Different Uncertainty Regimes: Evidence from the COVID-19 Market Crash**  
-``Universit´e Paris-Dauphine Research Paper, (3815169) (2021). with Briere, M., Lehalle, C. A.``
+[Université Paris-Dauphine Research Paper, (3815169) (2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815169)
+With [Briere, M.](http://mariebriere.fr), [Lehalle, C. A.](https://ae.linkedin.com/in/lehalle)
 
 Broker Note
 -----------
