@@ -43,6 +43,7 @@ Course Material
 | IA and the Finanacial System: Will Internediaries be Disintermediated | [Charles-Albert Lehalle](https://www.linkedin.com/in/lehalle/?originalSubdomain=ae) | Global Head of Quantitative R&D, ADIA – UAE | [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/7th%20session%20-%20Will%20intermediaries%20be%20Disintermediated.pdf)  |
 | Alternative Data Changing the Investment Process | [Charles-Albert Lehalle](https://www.linkedin.com/in/lehalle/?originalSubdomain=ae)  | Global Head of Quantitative R&D, ADIA – UAE | [Download](https://github.com/amineraboun/amineraboun.github.io/raw/master/files/8th%20session%20-%20Alternative%20Data%20For%20Investment.pdf) |
 
+<!--
 Evaluation
 ======
 
@@ -65,7 +66,7 @@ Please access the QCM via this [link](https://docs.google.com/forms/d/1V2kklTOAG
 The first question of the QCM will ask you to upload your document analysis. Please ensure that your document analysis is uploaded to the corresponding question in the QCM, and not sent to my by email. If you have already sent your analysis by email, please make sure to upload it to the QCM as well, as previous submissions won't be considered.
 
 > All submissions must be completed by the end of next week, **before midnight on April 9th.**
-
+-->
 
 Further readings
 ======
